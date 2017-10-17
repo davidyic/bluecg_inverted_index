@@ -5,4 +5,4 @@ Change the loginCredentials to your account / passwords.
 
 Usage:
    
-   python itemIndex.py
+      python itemIndex.py
